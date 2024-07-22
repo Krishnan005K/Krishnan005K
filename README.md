@@ -52,7 +52,7 @@ An AI-powered chatbot using Python and TensorFlow, capable of handling customer 
 
 ## Blog Posts
 
-- [Introduction to Cybersecurity](https://medium.com/@Krishnan005K/introduction-to-cybersecurity-12345)
+- [Introduction to CybersecuritY](https://medium.com/@Krishnan005K/introduction-to-cybersecurity-12345)
 - [Building a Full Stack Application with React and Node.js](https://medium.com/@Krishnan005K/full-stack-react-node-67890)
 - [Understanding AI and Machine Learning](https://medium.com/@Krishnan005K/ai-machine-learning-54321)
 
