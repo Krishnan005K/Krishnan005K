@@ -6,7 +6,7 @@ I am an aspiring student from India interested in Cybersecurity, Web Development
 - 💬 Ask me about **Java**, **Python**, **React.js**, and **Cybersecurity**.
 - 📫 Reach me at [krishnankaliyappan2005@gmail.com](mailto:krishnankaliyappan2005@gmail.com).
 - 📄 Get to know me in detail [Download Resume](https://drive.google.com/file/d/1af_GacJ44jUn3pWk26bFYfjKinv2NTY7/view?usp=drive_link).
-- ⚡ Fun fact: Drink a lot of water 💧 Hydration check ✔
+
 
 ## 🔥 My Stats
 
