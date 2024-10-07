@@ -4,7 +4,7 @@ I'm an aspiring software engineer from India, deeply interested in **Cybersecuri
 
 ### 🚀 Current Focus
 - 🌱 Learning **Cybersecurity** and **Full Stack Development**.
-- 💬 Open to discussions about **Java**, **Python**, **React.js**, and **Cybersecurity**.
+- 💬 Open to discussions about **C++**, **Python**, **React.js**, and **Cybersecurity**.
 
 ### 📫 Get in Touch
 - Email: [krishnankaliyappan2005@gmail.com](mailto:krishnankaliyappan2005@gmail.com)
