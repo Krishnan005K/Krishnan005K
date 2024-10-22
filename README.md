@@ -51,14 +51,6 @@ I'm an aspiring software engineer from India, deeply interested in **Cybersecuri
   </a>
 </p>
 
----
 
-## 📚 Projects (Coming Soon)
-1. **Cybersecurity Dashboard** - A dashboard for monitoring cybersecurity threats with real-time data visualization.
-2. **Browser by Your Own** - A full-fledged Browser like chrome firefox and top most browsers.
-3. **AI Chatbot** - An AI-powered chatbot using Python and TensorFlow, capable of handling customer service inquiries.
-
-
----
 
 ### Thanks for visiting my profile! 🌟
