@@ -14,7 +14,7 @@ I'm an aspiring software engineer from India, deeply interested in **Cybersecuri
 
 ![Krishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnan005K&show_icons=true&hide_border=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnan005K&layout=compact&hide_border=true&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnan005K&" alt="Krishnan005K" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krishnan005K&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## 💻 Languages and Frameworks
 <p>
