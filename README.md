@@ -1,3 +1,5 @@
+<img align ="right" src="https://komarev.com/ghpvc/?username=Krishnan005K&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnan005K" />
+
 # 👋 Hi there! I'm Krishnan K
 
 I'm an aspiring software engineer from India, deeply interested in **Cybersecurity**, **Web Development**, and **Software Engineering**.
