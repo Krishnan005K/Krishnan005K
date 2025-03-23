@@ -10,7 +10,7 @@ I'm an aspiring software engineer from India, deeply interested in **Cybersecuri
 
 ### 📫 Get in Touch
 - Email: [krishnankaliyappan2005@gmail.com](mailto:krishnankaliyappan2005@gmail.com)
-- 📄 [Download My Resume](https://drive.google.com/file/d/13FmCltn_V3qusnnYyN6W5aNpqq2p03pV/view?usp=sharing)
+- 📄 [Download My Resume](https://drive.google.com/file/d/1nCQsgp2JyH_rJs-hUpadedgtD8AI57E7/view?usp=drive_link)
 
 ## 🔥 My GitHub Stats
 
