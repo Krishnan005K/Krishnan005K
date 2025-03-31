@@ -1,16 +1,20 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=Krishnan005K&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnan005K" />
 
-# 👋 Hi there! I'm Krishnan K
+# 👋 Hi there! I'm Krishnan K  
 
-I'm an aspiring software engineer from India, deeply interested in **Cybersecurity**, **Web Development**, and **Software Engineering**.
+I'm an aspiring **Software Engineer** from 🇮🇳, passionate about **Cybersecurity**, **Web Development**, **Software Engineering**, and **Building Scalable Tech**.  
 
-### 🚀 Current Focus
-- 🌱 Learning **Cybersecurity** and **Full Stack Development**.
-- 💬 Open to discussions about **C++**, **Python**, **React.js**, and **Cybersecurity**.
+## 🚀 Current Focus  
+- 🌱 Diving deeper into **Full Stack Development**, **Software Engineering**, and **Cybersecurity**.  
+- ⚡ Exploring ways to build **scalable and efficient tech solutions**.  
+- 💬 Open to discussions about **C++**, **Python**, **React.js**, **Cybersecurity**, and **Software Architecture**.  
+ 
 
 ### 📫 Get in Touch
 - Email: [krishnankaliyappan2005@gmail.com](mailto:krishnankaliyappan2005@gmail.com)
 - 📄 [Download My Resume](https://drive.google.com/file/d/1nCQsgp2JyH_rJs-hUpadedgtD8AI57E7/view?usp=drive_link)
+- 🌐 Check out my **[Portfolio](https://krishnan005k.vercel.app)**
+- Blog **[Hashnode](https://hashnode.com/@Krishnan005K)**
 
 ## 🔥 My GitHub Stats
 
