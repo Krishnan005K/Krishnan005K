@@ -1,7 +1,7 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=Krishnan005K&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnan005K" />
+<img align ="right" src="https://komarev.com/ghpvc/?username=Krishnan005K&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Krishnan005K" />
+
 
 # 👋 Hi there! I'm Krishnan K  
-
 I'm an aspiring **Software Engineer** from 🇮🇳, passionate about **Cybersecurity**, **Web Development**, **Software Engineering**, and **Building Scalable Tech**.  
 
 ## 🚀 Current Focus  
