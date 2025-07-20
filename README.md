@@ -12,7 +12,7 @@ I'm an aspiring **Software Engineer** from 🇮🇳, passionate about **Cybersec
 
 ### 📫 Get in Touch
 - Email: **[krishnankaliyappan2005@gmail.com](mailto:krishnankaliyappan2005@gmail.com )**
-- 📄 **[Download My Resume](https://drive.google.com/file/d/1nCQsgp2JyH_rJs-hUpadedgtD8AI57E7/view?usp=drive_link)**
+- 📄 **[Download My Resume](https://drive.google.com/file/d/1iLJnvO8qbAFlsw6mEMcil52-I2XHl3Ob/view?usp=drive_link)**
 - 🌐 Check out my **[Portfolio](https://krishnan005k.vercel.app)**
 - Blog **[Hashnode](https://hashnode.com/@Krishnan005K )**
 
