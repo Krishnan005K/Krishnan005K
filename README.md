@@ -7,7 +7,7 @@ I'm an aspiring **Software Engineer** from 🇮🇳, passionate about **Cybersec
 ## 🚀 Current Focus  
 - 🌱 Diving deeper into **Full Stack Development**, **Software Engineering**, and **Cybersecurity**.  
 - ⚡ Exploring ways to build **scalable and efficient tech solutions**.  
-- 💬 Open to discussions about **C++**, **Python**, **React.js**, **Cybersecurity**, and **Software Architecture**.  
+- 💬 Open to discussions about **C++**, **Python**, **React.js**    and **Software Architecture**.  
  
 
 ### 📫 Get in Touch
