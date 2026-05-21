@@ -37,7 +37,7 @@ Currently specializing in **Java, Spring Boot, React.js, and Siemens Teamcenter 
 
 ## 📄 My Resume
 
-📄 **[View My Resume (PDF)]([https://drive.google.com/file/d/1Jxr9wjtC_cnwIKXNwPniKpxsrnYopobg/view?usp=sharing])** 
+📄 **[View My Resume (PDF)](https://drive.google.com/file/d/1Jxr9wjtC_cnwIKXNwPniKpxsrnYopobg/view?usp=sharing)** 
 
 ---
 
